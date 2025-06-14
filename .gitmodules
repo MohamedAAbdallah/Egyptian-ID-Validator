@@ -1,3 +1,6 @@
 [submodule "Egyptian-ID-Validator-Py"]
 	path = Egyptian-ID-Validator-Py
 	url = https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py
+[submodule "Egyptian-ID-Validator-Npm"]
+	path = Egyptian-ID-Validator-Npm
+	url = https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm
