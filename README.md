@@ -11,15 +11,15 @@ Each implementation follows a shared logic specification and aims to support dev
 
 ## ✅ Available Implementations
 
-| Language   | Repository                                | Status       |
-|------------|--------------------------------------------|--------------|
-| Python     | [Egyptian-ID-Validator-Py](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py)       | ✅ **Complete** |
-| JavaScript | Egyptian-ID-Validator-Npm                 | 🚧 In Progress |
-| Java       | Egyptian-ID-Validator-Java                | 🔄 Planned     |
-| C# (.NET)  | Egyptian-ID-Validator-DotNet              | 🔄 Planned     |
-| PHP        | Egyptian-ID-Validator-PHP                 | 🔄 Planned     |
-| Dart       | Egyptian-ID-Validator-Dart                | 🔄 Planned     |
-| Go         | Egyptian-ID-Validator-Go                  | 🔄 Planned     |
+| Language   | Repository                                | Status         |
+|------------|--------------------------------------------|----------------|
+| Python     | [Egyptian-ID-Validator-Py](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py)   | ✅ Complete     |
+| JavaScript | [Egyptian-ID-Validator-Npm](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm) | ✅ Complete     |
+| Java       | Egyptian-ID-Validator-Java                | 🚧 In Progress |
+| C# (.NET)  | Egyptian-ID-Validator-DotNet              | 🔄 Planned      |
+| PHP        | Egyptian-ID-Validator-PHP                 | 🔄 Planned      |
+| Dart       | Egyptian-ID-Validator-Dart                | 🔄 Planned      |
+| Go         | Egyptian-ID-Validator-Go                  | 🔄 Planned      |
 
 > 📌 Naming conventions follow the pattern `Egyptian-ID-Validator-<Platform>`
 
