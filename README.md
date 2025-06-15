@@ -1,15 +1,17 @@
 # Egyptian ID Validator
 
-A language-agnostic, open-source initiative for validating Egyptian National IDs across different programming ecosystems.
+A language-agnostic, open-source initiative for validating Egyptian National ID numbers across multiple programming environments.
+
+---
 
 ## 🔍 Purpose
 
 This repository serves as the **central hub** for all platform-specific Egyptian ID validation libraries.  
-Each implementation follows a shared logic specification and aims to support developers in web, mobile, backend, and embedded systems.
+Each implementation adheres to a shared validation specification, enabling developers to integrate robust ID parsing and verification into web, mobile, backend, and embedded systems.
 
 ---
 
-## ✅ Available Implementations
+## ✅ Implementations
 
 | Language   | Repository                                | Status         |
 |------------|--------------------------------------------|----------------|
@@ -25,25 +27,31 @@ Each implementation follows a shared logic specification and aims to support dev
 
 ---
 
-## 📦 Specification
+## 📦 Shared Specification
 
-All implementations are designed to support:
-- Structure & format checks
-- Gender and birthdate extraction
-- Valid governments code
-- Checksum validation
+Each implementation supports:
+
+- ✅ Format validation (14-digit structure)
+- ✅ Gender and birthdate parsing
+- ✅ Governorate code decoding
+- ✅ Official checksum verification
+
+> All logic follows the Egyptian Ministry of Interior standards.  
+> The checksum mechanism is verified but not publicly disclosed.
 
 ---
 
 ## 🧭 Getting Started
 
-Visit the [Python implementation](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py) to begin integrating or testing the validator.
+Start with a complete implementation like:
+
+- [Python Version](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py)
+- [JavaScript Version](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm)
 
 Want to contribute to a new language? Check [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon) or open an issue to get started.
 
 ---
 
-## 💡 Author
+## 👤 Author
 
-Created & maintained by [Mohamed A. Abdallah](https://github.com/MohamedAAbdallah)
-
+Created and maintained by [Mohamed A. Abdallah](https://github.com/MohamedAAbdallah)
