@@ -15,9 +15,9 @@ Each implementation adheres to a shared validation specification, enabling devel
 
 | Language   | Repository                                | Status         |
 |------------|--------------------------------------------|----------------|
-| Python     | [Egyptian-ID-Validator-Py](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py)   | ✅ Complete     |
-| JavaScript | [Egyptian-ID-Validator-Npm](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm) | ✅ Complete     |
-| Java       | Egyptian-ID-Validator-Java                | 🚧 In Progress |
+| Python     | [Egyptian-ID-Validator-Py](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Py)     | ✅ Complete     |
+| JavaScript | [Egyptian-ID-Validator-Npm](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm)   | ✅ Complete     |
+| Java       | [Egyptian-ID-Validator-Java](https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Java) | ✅ Complete     |
 | C# (.NET)  | Egyptian-ID-Validator-DotNet              | 🔄 Planned      |
 | PHP        | Egyptian-ID-Validator-PHP                 | 🔄 Planned      |
 | Dart       | Egyptian-ID-Validator-Dart                | 🔄 Planned      |
