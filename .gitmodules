@@ -4,3 +4,6 @@
 [submodule "Egyptian-ID-Validator-Npm"]
 	path = Egyptian-ID-Validator-Npm
 	url = https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Npm
+[submodule "Egyptian-ID-Validator-Java"]
+	path = Egyptian-ID-Validator-Java
+	url = https://github.com/MohamedAAbdallah/Egyptian-ID-Validator-Java/
